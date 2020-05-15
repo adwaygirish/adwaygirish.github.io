@@ -12,6 +12,7 @@ Course number[link to official webpage] - Course name[link to my course review]
 
 Most of the official webpages are poorly maintained unfortunately. I'm starting out with zero course reviews of my own, I hope to add a few soon. 
 
+
 ___
 
 ## Current semester (Spring 2020)
@@ -55,6 +56,7 @@ ___
 ### Department of Physics
 1. [PH 108](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20108) - Basics of Electricity and Magnetism
 2. [PH 107](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20107) - Quantum Physics and Application
+3. [PH 117](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20107) - Physics Lab
 
 ### Department of Computer Science and Engineering
 1. [CS 101](https://www.cse.iitb.ac.in/~cs101/) - Computer Programming and Utilization 
