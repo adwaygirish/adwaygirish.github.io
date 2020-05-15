@@ -8,13 +8,14 @@ Here is a list of all courses I have taken so far during my undergraduate educat
 
 They have been formatted as 
 ```
-(Course number[link to official webpage] - Course name[my course review]). 
+Course number[link to official webpage] - Course name[my course review] 
 ```
 Most of the official webpages are poorly maintained unfortunately. I'm starting out with zero course reviews of my own, I hope to add a few soon. 
 
+___
 
 ## Current semester (Spring 2020)
-
+___
 ### Department of Electrical Engineering (major)
 1. [EE 210](https://www.ee.iitb.ac.in/web/academics/courses/EE210) - Signals and Systems 
 2. [EE 204](http://www.ee.iitb.ac.in/~zelerajesh/index.php/teaching-2-2-4-2-4-2-3-2/) - Analog Circuits 
@@ -31,7 +32,7 @@ ___
 
 
 ## Previous semesters
-
+___
 ### Department of Electrical Engineering (major)
 1. [EE 223](https://www.ee.iitb.ac.in/web/academics/courses/EE223) - Data Analysis and Interpretation 
 2. [EE 225](https://www.ee.iitb.ac.in/web/academics/courses/EE225) - Network Theory 
