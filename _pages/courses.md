@@ -4,9 +4,15 @@ title: Courses
 permalink: /courses/
 ---
 
-Here is a list of all the courses I have taken so far during my undergraduate education at IIT Bombay.
+Here is a list of all courses I have taken so far during my undergraduate education at IIT Bombay.
 
-They have been formatted as (Course number[Official webpage by the department or IITB] - Course name[My course review]). Most of the official webpages are poorly maintained unfortunately. I'm starting out with zero course reviews of my own, I hope to add at least a few soon. 
+They have been formatted as 
+```
+(Course number[link to official webpage by the department or IITB] - Course name[my course review]). 
+```
+Most of the official webpages are poorly maintained unfortunately. I'm starting out with zero course reviews of my own, I hope to add a few soon. 
+
+
 ## Current semester (Spring 2020)
 
 ### Department of Electrical Engineering (major)
@@ -18,10 +24,11 @@ They have been formatted as (Course number[Official webpage by the department or
 6. [EE 214](https://www.ee.iitb.ac.in/web/academics/courses/EE214) - Digital Circuits Lab 
 7. [EE 234](https://www.ee.iitb.ac.in/web/academics/courses/EE234) - Machines Lab 
 
-### Department of Mathetmatics (minor)
-1. [MA 412](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20412) - Copmlex Analysis
+### Department of Mathematics (minor)
+1. [MA 412](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20412) - Complex Analysis
 
 ___
+
 
 ## Previous semesters
 
@@ -33,7 +40,7 @@ ___
 5. [EE 112](https://www.ee.iitb.ac.in/web/academics/courses/EE112) - Introduction to Electronics 
 6. [EE 111](https://www.ee.iitb.ac.in/web/academics/courses/EE111) - Introduction to Electrical Systems
 
-### Department of Mathetmatics (minor)
+### Department of Mathematics (minor)
 1. [MA 403](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20403) - Real Analysis
 2. [MA 207](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20207) - Differential Equations II
 3. [MA 205](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20205) - Complex Analysis
