@@ -1,29 +1,11 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 
-[Reverie](https://github.com/amitmerchant1990/reverie) is a Jekyll theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for [my blog](https://www.amitmerchant.com).
+I am a second-year undergraduate (sophomore) at the [Department of Electrical Engineering](https://www.ee.iitb.ac.in/web), Indian Institute of Technology Bombay ([IITB](http://www.iitb.ac.in/)). I am currently pursuing a four-year Bachelor of Technology degree in Electrical Engineering, with a minor in Mathematics; I expect to graduate at the end of Spring 2020. 
 
-This is a plug-and-play Jekyll theme which you can use on GitHub Pages without even setting up a local environment.
+<!---I'm still not entirely sure of what exactly my academic interests are. I like math, I like most of the electrical engineering topics that I have done (check here for the courses I have completed so far at IITB). In particular, Signal processing seems to have fascinated me the most. (add projects)---> 
 
-## Features
-
-- Command-line free fork-first workflow, using GitHub.com to create, customize and post to your blog
-- Fully responsive and mobile optimized base theme
-- Sass/Coffeescript support using Jekyll 2.0
-- Free hosting on your GitHub Pages user site
-- All the SEO goodies comes in-built
-- Markdown blogging
-- Syntax highlighting using Pygments
-    - [Dracula syntax theme](https://draculatheme.com/) included
-- Disqus commenting
-- Google Analytics integration
-- Fuzzy search across blog posts
-- Pagination of posts works out-of-the-box.
-- Categorize posts out-of-the box
-- RSS Feed
-- In-built sitemap
-
-Learn more about it [here](https://github.com/amitmerchant1990/reverie) on how to get started.
+<!---add personal stuff- football, music,... --->
