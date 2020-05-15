@@ -8,7 +8,7 @@ Here is a list of all courses I have taken so far during my undergraduate educat
 
 They have been formatted as 
 ```
-(Course number[link to official webpage by the department or IITB] - Course name[my course review]). 
+(Course number[link to official webpage] - Course name[my course review]). 
 ```
 Most of the official webpages are poorly maintained unfortunately. I'm starting out with zero course reviews of my own, I hope to add a few soon. 
 
