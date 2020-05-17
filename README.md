@@ -13,7 +13,7 @@ Making a change to `_config.yml` (or any file in your repository) will force Git
 ____
 ## About the theme - Reverie
 
-Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features and personal touches which I've implemented to suit my needs for my blog.
+Reverie is a [Jekyll](https://jekyllrb.com/)-powered theme which is simple and opinionated. It's actually a fork of [jekyll-now](https://github.com/barryclark/jekyll-now) with some additional features.
 
 > [Theme demo](https://www.amitmerchant.com/reverie/introducing-reverie-jekyll-theme/)
 
