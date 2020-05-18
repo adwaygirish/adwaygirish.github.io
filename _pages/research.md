@@ -5,6 +5,7 @@ permalink: /research/
 ---
 
 I haven't done much in terms of actual reserach work- this is mostly just the projects I've done.
+
 ___
 ## Interests
 ___
