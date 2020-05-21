@@ -28,5 +28,6 @@ Making software applications to aid in research in general.
 #### Thesis and Paper Reviews, December 2019 - present
 Quality improvement of the final doctoral thesis of Mr. Peeyush Sahay and a few papers arising from the thesis, which were co-authored by senior undergraduates. By the time I started working on these papers, they had already been submitted at least once, and my work was limited to proof-reading, corrections, and addressing reviewer comments only; but this was my first opportunity to have a close look at the amount of repeated effort and time that goes into a good publication. 
 The papers can be found below:
-1. [Generalized Fractional Matched Filtering and its Applications](https://ieeexplore.ieee.org/document/9055991)
-2. [Generalized Fractional Ambiguity Function and Its Applications](https://link.springer.com/content/pdf/10.1007/s00034-020-01398-7.pdf)
+1. [Adaptive Generalised Fractional Spectrogram and Its Applications](https://link.springer.com/article/10.1007/s00034-020-01442-6)
+2. [Generalized Fractional Matched Filtering and its Applications](https://ieeexplore.ieee.org/document/9055991)
+3. [Generalized Fractional Ambiguity Function and Its Applications](https://link.springer.com/content/pdf/10.1007/s00034-020-01398-7.pdf)
