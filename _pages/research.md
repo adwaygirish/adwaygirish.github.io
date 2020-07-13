@@ -20,7 +20,7 @@ ___
 #### Wavelets Project, April 2020 - present
 Compressed sensing techinques in radar signal processing. [See more]()
 
-#### Coding, April 2020 - present
+#### Simulations and GUI, April 2020 - June 2020
 Making software applications to aid in research in general.
 1. [Circuit solver](/Circuit-solver)
 2. [GUI Differential equation solver](/GUI-diff-eqn-solver)
