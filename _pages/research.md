@@ -9,10 +9,7 @@ I haven't done much in terms of actual reserach work- this is mostly just the pr
 ___
 ## Interests
 ___
-I'm not very specific about my interests yet. In general, I like parts of Electrical Engineering which involve rigorous mathematics - like Signal Processing.
-A recent course on Analog circuits has also intrigued me considerably (mostly due to its analytic nature). I used to be quite averse to coding earlier, but, being aware of the 
-necessity of coding as something of a skill as basic as simple arithmetic, I decided to have a go at it recently, and I must say, my opinion on programming has definitely changed for the better.
-
+I'm not very specific about my interests yet. I'm still exploring, trying to keep an open mind. Of all the stuff I've done so far, I like signal processing, which is also what most of my projects are based on. 
 ___
 ## Projects 
 ___
@@ -21,7 +18,7 @@ ___
 Compressed sensing techinques in radar signal processing. [See more]()
 
 #### Simulations and GUI, April 2020 - June 2020
-Making software applications to aid in research in general.
+Making software applications to aid in larger research projects.
 1. [Circuit solver](/Circuit-solver)
 2. [GUI Differential equation solver](/GUI-diff-eqn-solver)
 
