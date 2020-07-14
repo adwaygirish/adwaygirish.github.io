@@ -355,8 +355,9 @@ p > img {
   border: none;
   outline: none;
   color: black;
-  padding: 5px 16px;
-  background-color: #D8C3A5;
+  padding: 6px 16px;
+  background-color: inherit;
+  font-family: inherit;
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
