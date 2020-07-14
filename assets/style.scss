@@ -361,10 +361,11 @@ p > img {
 
 .navbar a:hover, .dropdown:hover .dropbtn {
   background-color: #D8C3A5;
+  color: #3277a8
 }
 
 .dropdown-content {
-  font-size: 10px;  
+  font-size: 16px;  
   display: none;
   position: absolute;
   background-color: #f9f9f9;
@@ -388,7 +389,7 @@ p > img {
 }
 
 .dropdown:hover .dropdown-content {
-  display: block;
+    display: block;
 }
 
 nav {
