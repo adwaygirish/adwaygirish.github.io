@@ -9,16 +9,20 @@ I haven't done much in terms of actual reserach work- this is mostly just the pr
 ___
 ## Interests
 ___
-I'm not very specific about my interests yet. I'm still exploring, trying to keep an open mind. Of all the stuff I've done so far, I like signal processing, which is also what most of my projects are based on. 
+I'm not very specific about my interests yet. I'm still exploring, trying to keep an open mind. Of all the stuff I've done so far, I like Signal Processing, which is also what most of my projects are based on. 
+
 ___
 ## Projects 
 ___
 
-#### Wavelets Project, April 2020 - present
-Compressed sensing techinques in radar signal processing. [See more]()
+#### Parametric Models in Audio Synthesis, July 2020 - Present
+So far, I have studied Spectral Modelling Synthesis, mainly using [SMS-tools](https://github.com/MTG/sms-tools). I am now looking to incorporate a cepstrum liftering based True Amplitude Envelope detection algorithm along with a Harmonic plus Stochastic model to re-synthesize audio recordings, mainly from the [Good-sounds](https://www.upf.edu/web/mtg/good-sounds) dataset. This is something I started very recently and am working on actively now; I will try to update it here as much as I can.
 
-#### Simulations and GUI, April 2020 - June 2020
-Making software applications to aid in larger research projects.
+#### Copmressed Sensing Techniques in RADAR, April 2020 - present
+I am working on this with a couple of my batchmates at IITB, under a PhD student. We are studying the detection and removal of micro-Doppler components from RADAR signals, using Inverse Radon Transform and L-statstics. We run simulations on MATLAB to help us gain an intuition for the problem, then try to formulate and solve it analytically with some rigour. Since this isn't my work alone, I'm not sure how much I can reveal here, so this is all I will be saying.
+
+#### Simulations and GUI Development, April 2020 - June 2020
+Here I made software applications to aid in larger research projects. This was my first experience with actually writing large quantities of code in Python, C++ and Javascript (basically any language that isn't MATLAB).
 1. [Circuit solver](/Circuit-solver)
 2. [GUI Differential equation solver](/GUI-diff-eqn-solver)
 
