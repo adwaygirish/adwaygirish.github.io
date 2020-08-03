@@ -39,21 +39,3 @@ The papers can be found below:
 2. [P. Sahay, A. Anjarlekar, S. A. Jain, P. Radhakrishna and V. M. Gadre, "Generalized Fractional Matched Filtering and its Applications", 2020 _National Conference on Communications (NCC)_](https://ieeexplore.ieee.org/document/9055991)
 3. [Sahay, P., Shaik Rasheed, I.A., Kulkarni, P. et al., "Generalized Fractional Ambiguity Function and Its Applications", _Circuits Syst Signal Process_ (2020)](https://link.springer.com/content/pdf/10.1007/s00034-020-01398-7.pdf)</p>
 </div>
-
-<script>
-  
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
