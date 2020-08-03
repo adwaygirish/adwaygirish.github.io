@@ -430,7 +430,7 @@ nav {
   padding: 18px;
   width: 100%;
   border: none;
-  text-align: left;
+  text-align: center;
   outline: none;
 font-size: 18px;
 font-family: inherit;
@@ -441,7 +441,7 @@ font-family: inherit;
 }
 
 .collapsible:after {
-  content: '\002B';
+  content: 'U+25BD';
   color: black;
   font-weight: bold;
   float: right;
@@ -449,7 +449,7 @@ font-family: inherit;
 }
 
 .active:after {
-  content: "\2212";
+  content: "U+25B3";
 }
 
 .content {
