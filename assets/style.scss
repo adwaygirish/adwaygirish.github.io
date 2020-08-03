@@ -441,7 +441,7 @@ font-family: inherit;
 }
 
 .collapsible:after {
-  content: 'U+25BD';
+  content: '\25BD';
   color: black;
   font-weight: bold;
   float: right;
@@ -449,7 +449,7 @@ font-family: inherit;
 }
 
 .active:after {
-  content: "U+25B3";
+  content: "\25B3";
 }
 
 .content {
