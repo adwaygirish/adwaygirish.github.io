@@ -38,4 +38,4 @@ The papers can be found below:
 <button class="collapsible"><b>Simulations and GUI Development, April 2020 - June 2020</b></button><div class="content"><p>3</p></div>
 
 <button class="collapsible"><b>Thesis and Paper Reviews, December 2019 - present</b></button><div class="content"><p>4</p></div>
-<\div>
+
