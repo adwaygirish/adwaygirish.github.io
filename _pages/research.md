@@ -12,7 +12,7 @@ A list of all of my projects, done under the guidance of professors from the Dep
 <details>
 <summary><b>Parametric Models in Audio Synthesis, July 2020 - Present</b></summary>
 So far, I have studied Spectral Modelling Synthesis, mainly using <a href = "https://github.com/MTG/sms-tools">SMS-tools</a>. I am now looking to incorporate a cepstrum liftering based True Amplitude Envelope detection algorithm along with a Harmonic plus Stochastic model to re-synthesize audio recordings, mainly from the 
-  <a href = "https://www.upf.edu/web/mtg/good-sounds">Good-sounds</a> dataset. This is something I started very recently and am working on actively now; I will try to update developments as often as I can.<br><hr><br>
+  <a href = "https://www.upf.edu/web/mtg/good-sounds">Good-sounds</a> dataset. This is something I started very recently and am working on actively now; I will try to update developments as often as I can.<br><hr>
 </details>
 
 <details>
