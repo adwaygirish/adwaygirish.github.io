@@ -26,14 +26,13 @@ Here I made software applications to aid in larger research projects. This was m
 <ol>
   <li><a href="/Circuit-solver">Circuit solver</a></li>
   <li><a href="/GUI-diff-eqn-solver">GUI Differential equation solver</a></li>
-</ol><br><br>
+</ol><br>
 </details>
 
 <details>
 <summary><b>Thesis and Paper Reviews, December 2019 - June 2020</b></summary>
 Quality improvement of the final doctoral thesis of a PhD student and a few papers arising from the thesis, which were co-authored by senior undergraduates. By the time I started working on these papers, they had already been submitted at least once, and my work was limited to proof-reading, corrections, and addressing reviewer comments only; but this was my first opportunity to have a close look at the amount of repeated effort and time that goes into a good publication. 
-The papers can be found below:
-<ol>
+The papers can be found below:<ol>
   <li><a href="https://link.springer.com/article/10.1007/s00034-020-01442-6">Sahay, P., Teza, B.S., Kulkarni, P. et al., “Adaptive Generalised Fractional Spectrogram and Its Applications”, <em>Circuits Syst Signal Process</em> (2020)</a></li>
   <li><a href="https://ieeexplore.ieee.org/document/9055991">P. Sahay, A. Anjarlekar, S. A. Jain, P. Radhakrishna and V. M. Gadre, “Generalized Fractional Matched Filtering and its Applications”, 2020 <em>National Conference on Communications (NCC)</em></a></li>
   <li><a href="https://link.springer.com/content/pdf/10.1007/s00034-020-01398-7.pdf">Sahay, P., Shaik Rasheed, I.A., Kulkarni, P. et al., “Generalized Fractional Ambiguity Function and Its Applications”, <em>Circuits Syst Signal Process</em> (2020)</a></li>
