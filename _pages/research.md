@@ -33,12 +33,12 @@ The papers can be found below:
 
 <button class="collapsible"><b>Parametric Models in Audio Synthesis, July 2020 - Present</b></button>
 <div class="content">
-  <p>So far, I have studied Spectral Modelling Synthesis, mainly using [SMS-tools](https://github.com/MTG/sms-tools). I am now looking to incorporate a cepstrum liftering based True Amplitude Envelope detection algorithm along with a Harmonic plus Stochastic model to re-synthesize audio recordings, mainly from the [Good-sounds](https://www.upf.edu/web/mtg/good-sounds) dataset. This is something I started very recently and am working on actively now; I will try to update it here as much as I can.</p>
+  <p> So far, I have studied Spectral Modelling Synthesis, mainly using <a href = "https://github.com/MTG/sms-tools">SMS-tools</a>. I am now looking to incorporate a cepstrum liftering based True Amplitude Envelope detection algorithm along with a Harmonic plus Stochastic model to re-synthesize audio recordings, mainly from the <a href = "https://www.upf.edu/web/mtg/good-sounds">Good-sounds</a> dataset. This is something I started very recently and am working on actively now; I will try to update it here as much as I can. </p>
 </div>
 
 <button class="collapsible"><b>Compressed Sensing Techniques in RADAR, April 2020 - present</b></button>
 <div class="content">
-  <pI am working on this with a couple of my batchmates at IITB, under a PhD student. We are studying the detection and removal of micro-Doppler components from RADAR signals, using Inverse Radon Transform and L-statstics. We run simulations on MATLAB to help us gain an intuition for the problem, then try to formulate and solve it analytically with some rigour. Since this isn't my work alone, I'm not sure how much I can reveal here, so this is all I will be saying.</p>
+  <p>I am working on this with a couple of my batchmates at IITB, under a PhD student. We are studying the detection and removal of micro-Doppler components from RADAR signals, using Inverse Radon Transform and L-statstics. We run simulations on MATLAB to help us gain an intuition for the problem, then try to formulate and solve it analytically with some rigour. Since this isn't my work alone, I'm not sure how much I can reveal here, so this is all I will be saying.</p>
 </div>
 
 <button class="collapsible"><b>Simulations and GUI Development, April 2020 - June 2020</b></button>
