@@ -12,7 +12,7 @@ The course codes link to the official course webpages, either from the departmen
 ## Current semester (---)
 
 <details>
-<summary><b>Department of Electrical Engineering (major)</b></summary>
+<summary><b>Department of Electrical Engineering</b></summary>
 <!-- <ol>
   <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE210">EE 210</a> - Signals and Systems</li>
   <li><a href="http://www.ee.iitb.ac.in/~zelerajesh/index.php/teaching-2-2-4-2-4-2-3-2/">EE 204</a> - Analog Circuits</li>
@@ -30,7 +30,7 @@ The course codes link to the official course webpages, either from the departmen
 </ol><br> -->
 </details>
 <details>
-<summary><b>Department of Mathematics (minor)</b></summary>
+<summary><b>Department of Mathematics</b></summary>
 <!-- <ol>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20412">MA 412</a> - Complex Analysis</li>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20403">MA 403</a> - Real Analysis</li>
@@ -46,7 +46,7 @@ The course codes link to the official course webpages, either from the departmen
 ## Previous semesters
 
 <details>
-<summary><b>Department of Electrical Engineering (major)</b></summary>
+<summary><b>Department of Electrical Engineering</b></summary>
 <ol>
   <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE210">EE 210</a> - Signals and Systems</li>
   <li><a href="http://www.ee.iitb.ac.in/~zelerajesh/index.php/teaching-2-2-4-2-4-2-3-2/">EE 204</a> - Analog Circuits</li>
@@ -64,7 +64,7 @@ The course codes link to the official course webpages, either from the departmen
 </ol><br>
 </details>
 <details>
-<summary><b>Department of Mathematics (minor)</b></summary>
+<summary><b>Department of Mathematics</b></summary>
 <ol>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20412">MA 412</a> - Complex Analysis</li>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20403">MA 403</a> - Real Analysis</li>
