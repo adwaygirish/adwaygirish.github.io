@@ -3,15 +3,12 @@ layout: page
 title: Projects and Research
 permalink: /research/
 ---
-___
-## Interests
-___
-I'm not very specific about my interests yet. I'm still exploring, trying to keep an open mind. Of all the stuff I've done so far, I like Signal Processing, which is also what most of my projects are based on. 
 
-___
+I haven't done too much of what is considered actual research here, but the projects have been getting more research-y as I learn more and start finding my niche, so that's probably a good sign. Anyway, here is everything I have done.
+
 ## Projects 
 ___
-A list of all of my projects and research work. There isn't too much in terms of actual research here, but the projects have been getting more research-y as I learn more and get into more serious stuff, so that's probably a good sign.
+A list of all of my projects 
 <details>
 <summary><b>Parametric Models in Audio Synthesis, July 2020 - Present</b></summary><br>
 So far, I have studied Spectral Modelling Synthesis, mainly using <a href = "https://github.com/MTG/sms-tools">SMS-tools</a>. I am now looking to incorporate a cepstrum liftering based True Amplitude Envelope detection algorithm along with a Harmonic plus Stochastic model to re-synthesize audio recordings, mainly from the 
@@ -25,7 +22,7 @@ I am working on this with a couple of my batchmates at IITB, under a PhD student
 <br>
 <details>
 <summary><b>Simulations and GUI Development, April 2020 - June 2020</b></summary><br>
-Here I made software applications to aid in larger research projects. This was my first experience with actually writing large quantities of code in Python, C++ and Javascript (basically any language that isn't MATLAB).
+Here I made software applications to aid in larger research projects. This was my first experience with actually writing large (or any, for that matter) quantities of code in Python, C++ and Javascript (basically any language that isn't MATLAB).
 <ol>
   <li><a href="/Circuit-solver">Circuit solver</a></li>
   <li><a href="/GUI-diff-eqn-solver">GUI Differential equation solver</a></li>
