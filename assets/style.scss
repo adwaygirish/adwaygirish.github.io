@@ -422,43 +422,6 @@ nav {
   }
 }
 
-// COLLAPSIBLES
-.collapsible {
-  background-color: #EAE7DC;
-  color: black;
-  cursor: pointer;
-  padding: 18px;
-  width: 100%;
-  border: none;
-  text-align: center;
-  outline: none;
-font-size: 18px;
-font-family: inherit;
-}
-
-.active, .collapsible:hover {
-  color: #3277a8;
-}
-
-.collapsible:after {
-  content: '\25BD';
-  color: black;
-  font-weight: bold;
-  float: right;
-  margin-left: 5px;
-}
-
-.active:after {
-  content: "\25B3";
-}
-
-.content {
-   padding: 0 18px;
-  background-color: white;
-  max-height: 0;
-  overflow: hidden;
-  transition: max-height 0.2s ease-out;
-}
 // END 
 
 //
