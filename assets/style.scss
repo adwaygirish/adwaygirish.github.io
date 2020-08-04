@@ -453,11 +453,11 @@ font-family: inherit;
 }
 
 .content {
-  padding: 0 18px;
-  display: none;
+   padding: 0 18px;
+  background-color: white;
+  max-height: 0;
   overflow: hidden;
-  background-color: #f9f9f9;
-}
+  transition: max-height 0.2s ease-out;
 // END 
 
 //
