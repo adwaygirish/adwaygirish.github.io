@@ -4,14 +4,10 @@ title: Courses
 permalink: /courses/
 ---
 
-Here is a list of all courses I have taken so far during my undergraduate education at IIT Bombay.
+Here is an exhaustive list of all courses I have taken so far during my undergraduate education at IIT Bombay. I am majoring in Electrical Engineering, with a minor in Mathematics; most of my courses come from these departments.
 
-They have been formatted as 
+The course codes link to the official course webpages, either from the department or from the institute; unfortunately, quite a few of them are poorly maintained.
 
-Course number[link to official webpage] - Course name
-
-Most of the official webpages are poorly maintained unfortunately. 
-___
 
 ## Current semester (---)
 
