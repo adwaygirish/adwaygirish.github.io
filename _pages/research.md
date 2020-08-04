@@ -7,7 +7,7 @@ permalink: /research/
 I haven't done too much of what is considered actual research yet, but the projects have been getting more research-y as I learn more and start finding things I really like, so that's probably a good sign. Anyway, here is everything I have done.
 
 ## Projects 
-___
+
 A list of all of my projects, done under the guidance of professors from the Department of Electrical Engg. at IITB.
 <details>
 <summary><b>Parametric Models in Audio Synthesis, July 2020 - Present</b></summary>
