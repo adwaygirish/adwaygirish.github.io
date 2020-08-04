@@ -11,13 +11,13 @@ I haven't done too much of what is considered actual research yet, but the proje
 A list of all of my projects, done under the guidance of professors from the Department of Electrical Engg. at IITB.
 <details>
 <summary><b>Parametric Models in Audio Synthesis, July 2020 - Present</b></summary>
-<br>So far, I have studied Spectral Modelling Synthesis, mainly using <a href = "https://github.com/MTG/sms-tools">SMS-tools</a>. I am now looking to incorporate a cepstrum liftering based True Amplitude Envelope detection algorithm along with a Harmonic plus Stochastic model to re-synthesize audio recordings, mainly from the 
+So far, I have studied Spectral Modelling Synthesis, mainly using <a href = "https://github.com/MTG/sms-tools">SMS-tools</a>. I am now looking to incorporate a cepstrum liftering based True Amplitude Envelope detection algorithm along with a Harmonic plus Stochastic model to re-synthesize audio recordings, mainly from the 
   <a href = "https://www.upf.edu/web/mtg/good-sounds">Good-sounds</a> dataset. This is something I started very recently and am working on actively now; I will try to update developments as often as I can.<br><hr><br>
 </details>
 
 <details>
 <summary><b>Compressed Sensing Techniques in RADAR, April 2020 - present</b></summary>
-<br>I am working on this with a couple of my batchmates at IITB, under a PhD student. We are studying the detection and removal of micro-Doppler components from RADAR signals, using Inverse Radon Transform and L-statstics. We run simulations on MATLAB to help us gain an intuition for the problem, then try to formulate and solve it analytically with some rigour. Since this isn't my work alone, I'm not sure how much I can reveal here, so this is all I will be saying.<br><hr><br>
+I am working on this with a couple of my batchmates at IITB, under a PhD student. We are studying the detection and removal of micro-Doppler components from RADAR signals, using Inverse Radon Transform and L-statstics. We run simulations on MATLAB to help us gain an intuition for the problem, then try to formulate and solve it analytically with some rigour. Since this isn't my work alone, I'm not sure how much I can reveal here, so this is all I will be saying.<br><hr><br>
 </details>
 
 <details>
