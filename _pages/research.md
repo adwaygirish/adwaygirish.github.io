@@ -13,7 +13,7 @@ ___
 ___
 A chronological list of all of my projects and research work. There isn't too much in terms of actual research here, but the projects have been getting more research-y as I learn more and get into more serious stuff, so that's probably a good sign.
 <details>
-<summary><h3> Parametric Models in Audio Synthesis, July 2020 - Present</h3></summary>
+<summary><h4>Parametric Models in Audio Synthesis, July 2020 - Present</h4></summary>
 So far, I have studied Spectral Modelling Synthesis, mainly using [SMS-tools](https://github.com/MTG/sms-tools). I am now looking to incorporate a cepstrum liftering based True Amplitude Envelope detection algorithm along with a Harmonic plus Stochastic model to re-synthesize audio recordings, mainly from the [Good-sounds](https://www.upf.edu/web/mtg/good-sounds) dataset. This is something I started very recently and am working on actively now; I will try to update it here as much as I can.
 </details>
 #### Compressed Sensing Techniques in RADAR, April 2020 - present
