@@ -30,9 +30,9 @@ The papers can be found below:
 1. [Sahay, P., Teza, B.S., Kulkarni, P. et al., "Adaptive Generalised Fractional Spectrogram and Its Applications", _Circuits Syst Signal Process_ (2020)](https://link.springer.com/article/10.1007/s00034-020-01442-6)
 2. [P. Sahay, A. Anjarlekar, S. A. Jain, P. Radhakrishna and V. M. Gadre, "Generalized Fractional Matched Filtering and its Applications", 2020 _National Conference on Communications (NCC)_](https://ieeexplore.ieee.org/document/9055991)
 3. [Sahay, P., Shaik Rasheed, I.A., Kulkarni, P. et al., "Generalized Fractional Ambiguity Function and Its Applications", _Circuits Syst Signal Process_ (2020)](https://link.springer.com/content/pdf/10.1007/s00034-020-01398-7.pdf)
-
+<div>
 <button class="collapsible"><b>Parametric Models in Audio Synthesis, July 2020 - Present</b></button><div class="content"><p> 1 </p></div>
-
+<\div>
 <button class="collapsible"><b>Compressed Sensing Techniques in RADAR, April 2020 - present</b></button><div class="content"><p>2</p></div>
 
 <button class="collapsible"><b>Simulations and GUI Development, April 2020 - June 2020</b></button><div class="content"><p>3</p></div>
