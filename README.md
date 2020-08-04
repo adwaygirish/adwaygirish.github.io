@@ -2,7 +2,7 @@
 
 This is the repository for my [website](https://adwaygirish.github.io/). I have used the template by [Amit Merchant](https://github.com/amitmerchant1990), with some modifications of my own. 
 
-To use this template to make your own website, fork this repository, then rename the repository to `yourgithubusername.github.io`.
+To use this template to make your own website, fork this repository, then rename the repository to `yourgithubusername.github.io`. I would suggest you do it from the [original](https://github.com/amitmerchant1990/reverie) though, since I have made some changes to this and having only a very minimal understanding of how all this works, I might have done something that I shouldn't have. 
 
 Your website will often be viewable immediately at <https://yourgithubusername.github.io>. 
 
