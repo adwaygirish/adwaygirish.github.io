@@ -8,11 +8,9 @@ Here is a list of all courses I have taken so far during my undergraduate educat
 
 They have been formatted as 
 
-Course number[link to official webpage] - Course name[link to my course review] 
+Course number[link to official webpage] - Course name
 
-Most of the official webpages are poorly maintained unfortunately. I'm starting out with zero course reviews of my own, I hope to add a few soon. (This probably won't happen.)
-
-
+Most of the official webpages are poorly maintained unfortunately. 
 ___
 
 ## Current semester (---)
@@ -26,53 +24,79 @@ ___
 
 
 ## Previous semesters
-___
-### Department of Electrical Engineering (major)
-1. [EE 210](https://www.ee.iitb.ac.in/web/academics/courses/EE210) - Signals and Systems 
-2. [EE 204](http://www.ee.iitb.ac.in/~zelerajesh/index.php/teaching-2-2-4-2-4-2-3-2/) - Analog Circuits 
-3. [EE 222](https://www.ee.iitb.ac.in/web/academics/courses/EE222) - Electrical machines and Power Electronics 
-4. [EE 224](https://www.ee.iitb.ac.in/web/academics/courses/EE224) - Digital Systems 
-5. [EE 230](https://www.ee.iitb.ac.in/web/academics/courses/EE230) - Analog Lab 
-6. [EE 214](https://www.ee.iitb.ac.in/web/academics/courses/EE214) - Digital Circuits Lab 
-7. [EE 234](https://www.ee.iitb.ac.in/web/academics/courses/EE234) - Machines Lab 
-8. [EE 223](https://www.ee.iitb.ac.in/web/academics/courses/EE223) - Data Analysis and Interpretation 
-9. [EE 225](https://www.ee.iitb.ac.in/web/academics/courses/EE225) - Network Theory 
-10. [EE 207](https://www.ee.iitb.ac.in/web/academics/courses/EE207) - Electronic Devices 
-11. [EE 236](https://www.ee.iitb.ac.in/web/academics/courses/EE236) - Electronic Devices Lab 
-12. [EE 112](https://www.ee.iitb.ac.in/web/academics/courses/EE112) - Introduction to Electronics 
-13. [EE 111](https://www.ee.iitb.ac.in/web/academics/courses/EE111) - Introduction to Electrical Systems
 
-### Department of Mathematics (minor)
-1. [MA 412](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20412) - Complex Analysis
-2. [MA 403](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20403) - Real Analysis
-3. [MA 207](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20207) - Differential Equations II
-4. [MA 205](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20205) - Complex Analysis
-5. [MA 108](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20108) - Ordinary Differential Equations I
-6. [MA 106](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20106) - Linear Algebra
-7. [MA 105](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20105) - Calculus
+<details>
+<summary><b>Department of Electrical Engineering (major)</b></summary>
+<ol>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE210">EE 210</a> - Signals and Systems</li>
+  <li><a href="http://www.ee.iitb.ac.in/~zelerajesh/index.php/teaching-2-2-4-2-4-2-3-2/">EE 204</a> - Analog Circuits</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE222">EE 222</a> - Electrical machines and Power Electronics</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE224">EE 224</a> - Digital Systems</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE230">EE 230</a> - Analog Lab</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE214">EE 214</a> - Digital Circuits Lab</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE234">EE 234</a> - Machines Lab</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE223">EE 223</a> - Data Analysis and Interpretation</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE225">EE 225</a> - Network Theory</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE207">EE 207</a> - Electronic Devices</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE236">EE 236</a> - Electronic Devices Lab</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE112">EE 112</a> - Introduction to Electronics</li>
+  <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE111">EE 111</a> - Introduction to Electrical Systems</li>
+</ol><br><br>
+</details>
+<details>
+<summary><b>Department of Mathematics (minor)</b></summary>
+<ol>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20412">MA 412</a> - Complex Analysis</li>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20403">MA 403</a> - Real Analysis</li>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20207">MA 207</a> - Differential Equations II</li>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20205">MA 205</a> - Complex Analysis</li>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20108">MA 108</a> - Ordinary Differential Equations I</li>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20106">MA 106</a> - Linear Algebra</li>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20105">MA 105</a> - Calculus</li>
+</ol><br><br>
+</details>
+<details>
+<summary><b>Department of Humanities and Social Sciences</b></summary>
+<ol>
+  <li><a href="http://www.hss.iitb.ac.in/en/hs-101-economics">HS 101</a> - Economics</li>
+</ol><br><br>
+</details>
+<details>
+<summary><b>Department of Physics</b></summary>
+<ol>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20108">PH 108</a> - Basics of Electricity and Magnetism</li>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20107">PH 107</a> - Quantum Physics and Application</li>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20107">PH 117</a> - Physics Lab</li>
+</ol><br><br>
+</details>
+<details>
+<summary><b>Department of Computer Science and Engineering</b></summary>
+<ol>
+  <li><a href="https://www.cse.iitb.ac.in/~cs101/">CS 101</a> - Computer Programming and Utilization</li>
+</ol><br><br>
+</details>
+<details>
+<summary><b>Department of Mechanical Engineering</b></summary>
+<ol>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20119">ME 119</a> - Engineering Graphics and Drawing</li>
+  <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20113">ME 113</a> -  Workshop Practice</li>
+</ol><br><br>
+</details>
+<details>
+<summary><b>Department of Biosciences and Bioengineering</b></summary>
+<ol>
+  <li><a href="http://www.bio.iitb.ac.in/academics/departmental-course">BB 101</a> - Biology</li>
+</ol><br><br>
+</details>
+<details>
+<summary><b>Department of Chemistry</b></summary>
+<ol>
+  <li><a href="https://www.chem.iitb.ac.in/courses_inner/863">CH 117</a> - Chemistry Lab</li>
+  <li><a href="https://www.chem.iitb.ac.in/courses_inner/860">CH 107</a> - Physical Chemistry</li>
+  <li><a href="https://www.chem.iitb.ac.in/courses_inner/848">CH 105</a> - Organic and Inorganic Chemistry</li>
+</ol><br><br>
+</details>
 
-### Department of Humanities and Social Sciences
-1. [HS 101](http://www.hss.iitb.ac.in/en/hs-101-economics) - Economics
-
-### Department of Physics
-1. [PH 108](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20108) - Basics of Electricity and Magnetism
-2. [PH 107](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20107) - Quantum Physics and Application
-3. [PH 117](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20107) - Physics Lab
-
-### Department of Computer Science and Engineering
-1. [CS 101](https://www.cse.iitb.ac.in/~cs101/) - Computer Programming and Utilization 
-
-### Department of Mechanical Engineering
-1. [ME 119](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20119) - Engineering Graphics and Drawing 
-2. [ME 113](https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20113) -  Workshop Practice 
-
-### Department of Biosciences and Bioengineering
-1. [BB 101](http://www.bio.iitb.ac.in/academics/departmental-course) - Biology 
-
-### Department of Chemistry
-1. [CH 117](https://www.chem.iitb.ac.in/courses_inner/863) - Chemistry Lab
-2. [CH 107](https://www.chem.iitb.ac.in/courses_inner/860) - Physical Chemistry
-3. [CH 105](https://www.chem.iitb.ac.in/courses_inner/848) - Organic and Inorganic Chemistry
 
 ___
 
