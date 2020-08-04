@@ -4,11 +4,11 @@ title: Projects and Research
 permalink: /research/
 ---
 
-I haven't done too much of what is considered actual research here, but the projects have been getting more research-y as I learn more and start finding my niche, so that's probably a good sign. Anyway, here is everything I have done.
+I haven't done too much of what is considered actual research yet, but the projects have been getting more research-y as I learn more and start finding things I really like, so that's probably a good sign. Anyway, here is everything I have done.
 
 ## Projects 
 ___
-A list of all of my projects 
+A list of all of my projects, done under the guidance of professors from the Department of Electrical Engg. at IITB.
 <details>
 <summary><b>Parametric Models in Audio Synthesis, July 2020 - Present</b></summary><br>
 So far, I have studied Spectral Modelling Synthesis, mainly using <a href = "https://github.com/MTG/sms-tools">SMS-tools</a>. I am now looking to incorporate a cepstrum liftering based True Amplitude Envelope detection algorithm along with a Harmonic plus Stochastic model to re-synthesize audio recordings, mainly from the 
