@@ -41,7 +41,7 @@ ___
   <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE236">EE 236</a> - Electronic Devices Lab</li>
   <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE112">EE 112</a> - Introduction to Electronics</li>
   <li><a href="https://www.ee.iitb.ac.in/web/academics/courses/EE111">EE 111</a> - Introduction to Electrical Systems</li>
-</ol><br><br>
+</ol><br>
 </details>
 <details>
 <summary><b>Department of Mathematics (minor)</b></summary>
@@ -53,13 +53,13 @@ ___
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20108">MA 108</a> - Ordinary Differential Equations I</li>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20106">MA 106</a> - Linear Algebra</li>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ma%20105">MA 105</a> - Calculus</li>
-</ol><br><br>
+</ol><br>
 </details>
 <details>
 <summary><b>Department of Humanities and Social Sciences</b></summary>
 <ol>
   <li><a href="http://www.hss.iitb.ac.in/en/hs-101-economics">HS 101</a> - Economics</li>
-</ol><br><br>
+</ol><br>
 </details>
 <details>
 <summary><b>Department of Physics</b></summary>
@@ -67,26 +67,26 @@ ___
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20108">PH 108</a> - Basics of Electricity and Magnetism</li>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20107">PH 107</a> - Quantum Physics and Application</li>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ph%20107">PH 117</a> - Physics Lab</li>
-</ol><br><br>
+</ol><br>
 </details>
 <details>
 <summary><b>Department of Computer Science and Engineering</b></summary>
 <ol>
   <li><a href="https://www.cse.iitb.ac.in/~cs101/">CS 101</a> - Computer Programming and Utilization</li>
-</ol><br><br>
+</ol><br>
 </details>
 <details>
 <summary><b>Department of Mechanical Engineering</b></summary>
 <ol>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20119">ME 119</a> - Engineering Graphics and Drawing</li>
   <li><a href="https://portal.iitb.ac.in/asc/Courses/crsedetail.jsp?ccd=ME%20113">ME 113</a> -  Workshop Practice</li>
-</ol><br><br>
+</ol><br>
 </details>
 <details>
 <summary><b>Department of Biosciences and Bioengineering</b></summary>
 <ol>
   <li><a href="http://www.bio.iitb.ac.in/academics/departmental-course">BB 101</a> - Biology</li>
-</ol><br><br>
+</ol><br>
 </details>
 <details>
 <summary><b>Department of Chemistry</b></summary>
@@ -96,8 +96,5 @@ ___
   <li><a href="https://www.chem.iitb.ac.in/courses_inner/848">CH 105</a> - Organic and Inorganic Chemistry</li>
 </ol><br><br>
 </details>
-
-
-___
 
 
