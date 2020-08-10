@@ -9,7 +9,7 @@ Here is an exhaustive list of all courses I have taken so far during my undergra
 The course codes link to the official course webpages, either from the department or from the institute; unfortunately, quite a few of them are poorly maintained.
 
 
-## Current semester (---)
+## Current semester (Autumn 2020)
 
 <details>
 <summary><b>Department of Electrical Engineering</b></summary>
