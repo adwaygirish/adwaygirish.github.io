@@ -1,12 +1,12 @@
 ---
 layout: page
 title: Mentorship and Teaching
-permalink: /mentor/
+permalink: /teaching/
 ---
 _"It is important to draw wisdom from many different places. If you take it from only one place, it become rigid and stale."_, said Uncle Iroh. I have been fortunate to have had numerous opportunites to mentor some of my juniors, forcing me to revisit things I once learnt, refreshing my understanding with a different perspective each time.
 
 ___
-## [Teaching](#teaching)
+## [Teaching](#ta)
 I have had the opportunity to be a Teaching Assistant for first-year undergraduate courses on two separate occasions - both in my second year.
 
 #### 1. PH 108 - Basics of Electricity and Magnetism - Spring 2020
