@@ -1,3 +1,7 @@
+this is my academic website which is under construction. I will attempt to clear the README up. At some point.
+
+
+
 # Academic Pages
 **Academic Pages is a Github Pages template for academic websites.**
 
