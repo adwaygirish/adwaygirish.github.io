@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "CV"
-permalink: /cv/
+title: "Curriculum Vitae and Formal Bio"
+permalink: /cvbio/
 author_profile: true
 redirect_from:
   - /resume
@@ -9,56 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+### *Curriculum Vitae.*
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+[2-page CV]() (Last updated 14.10.2024, 17:00 AM [CET]())\
+[1-page resume]() (Last updated 14.10.2024, 17:00 AM [CET]())
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+### *Formal third-person bio.*
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Adway Girish is a third-year Ph.D. candidate at the School of Computer and Communication Sciences, EPFL, Switzerland, being advised by Prof. Emre Telatar in the Information Processing Group (IPG). His research interests are in all aspects of information theory, particularly its applications to security, communication, and learning. Previously, he received a B.Tech. in Electrical Engineering with honors and a minor in Mathematics from IIT Bombay, India, in 2022. 

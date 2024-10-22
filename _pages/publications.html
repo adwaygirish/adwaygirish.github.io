@@ -5,32 +5,78 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
+<!-- Button container for switching between views -->
+<div class="button-container">
+  <button id="chronologicalButton" class="toggle-button selected-button" onclick="showView('chronological', this)">Chronological Order</button>
+  <button id="areaButton" class="toggle-button" onclick="showView('area', this)">Separated by Area</button>
+</div>
 
-{% include base_path %}
-
-<!-- New style rendering if publication categories are defined -->
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
-    {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
-      {% if post.category != category[0] %}
-        {% continue %}
-      {% endif %}
-      {% unless title_shown %}
-        <h2>{{ category[1].title }}</h2><hr />
-        {% assign title_shown = true %}
-      {% endunless %}
-      {% include archive-single.html %}
-    {% endfor %}
-  {% endfor %}
-{% else %}
+<!-- Chronological Order Section -->
+<div id="chronological" class="view-section active">
+  <!-- <h2>Publications (Chronological Order)</h2> -->
+  <hr />
   {% for post in site.publications reversed %}
     {% include archive-single.html %}
   {% endfor %}
-{% endif %}
+</div>
 
+<!-- Separated by Area Section -->
+<div id="area" class="view-section">
+  {% if site.publication_category %}
+    {% for category in site.publication_category %}
+      <h2>{{ category[1].title }}</h2>
+      <hr />
+      {% for post in site.publications %}
+        {% if post.category == category[0] %}
+          {% include archive-single.html %}
+        {% endif %}
+      {% endfor %}
+    {% endfor %}
+  {% endif %}
+</div>
 
+<script>
+  function showView(view, button) {
+    // Hide all sections
+    document.getElementById('chronological').classList.remove('active');
+    document.getElementById('area').classList.remove('active');
+    
+    // Show the selected section
+    document.getElementById(view).classList.add('active');
 
+    // Remove selected-button class from all buttons
+    document.getElementById('chronologicalButton').classList.remove('selected-button');
+    document.getElementById('areaButton').classList.remove('selected-button');
+    
+    // Add selected-button class to the clicked button
+    button.classList.add('selected-button');
+  }
+</script>
+
+<style>
+  .view-section {
+    display: none;
+  }
+  .active {
+    display: block;
+  }
+  .button-container {
+    margin-bottom: 20px;
+  }
+  .toggle-button {
+    padding: 10px;
+    cursor: pointer;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    transition: background-color 0.3s;
+  }
+  .toggle-button:hover {
+    background-color: #0056b3;
+  }
+  .selected-button {
+    background-color: #0056b3; /* Highlight color for the active button */
+  }
+</style>
