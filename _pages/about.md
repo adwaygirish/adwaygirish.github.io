@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-!!page still under construction, if you have somehow found your way here. come back when it is ready, thanks!!
+!! page still under construction, if you have somehow found your way here. come back when it is ready, thanks. meanwhile, my current website is at [sites.google.com/view/adwaygirish](https://sites.google.com/view/adwaygirish/home?authuser=0) !!
 
 I am Adway, a third-year Ph.D. candidate with the Information Processing Group ([IPG](https://ipg.epfl.ch)) at the School of Computer and Communication Sciences ([IC](https://ic.epfl.ch)), **[EPFL](https://www.epfl.ch)**, Switzerland. I am advised by the inimitable [Emre Telatar](https://people.epfl.ch/emre.telatar). I have also had the immense pleasure of collaborating with [Michael Gastpar](https://people.epfl.ch/michael.gastpar), [Hyeji Kim](https://sites.utexas.edu/hkim/), and [Ashok Vardhan Makkuva](http://ashokvardhan.github.io/).
 My research interests are primarily in all aspects of information and coding theory. I am also interested in applying these techniques to study security, communication, and learning.
