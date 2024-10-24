@@ -6,9 +6,15 @@ author_profile: true
 ---
 
 <!-- Link container for switching between views -->
+<!-- <div class="link-container">
+  <a href="javascript:void(0)" id="chronologicalLink" class="toggle-link selected-link" onclick="showView('chronological', this)">Chronological Order</a>
+<span>|</span>
+  <a href="javascript:void(0)" id="areaLink" class="toggle-link" onclick="showView('area', this)">Separated by Area</a>
+</div> -->
 <div class="link-container">
-  <a href="javascript:void(0)" id="chronologicalLink" class="toggle-link selected-link" onclick="showView('chronological', this)">[Chronological Order]</a>|
-  <a href="javascript:void(0)" id="areaLink" class="toggle-link" onclick="showView('area', this)">[Separated by Area]</a>
+  <a href="javascript:void(0)" id="chronologicalLink" class="masthead__menu-item toggle-link selected-link" onclick="showView('chronological', this)">Chronological Order</a>
+  <span>|</span>
+  <a href="javascript:void(0)" id="areaLink" class="masthead__menu-item toggle-link" onclick="showView('area', this)">Separated by Area</a>
 </div>
 
 <!-- Chronological Order Section -->
@@ -164,23 +170,48 @@ P. Radhakrishna, Peeyush Sahay*\
     display: block;
   }
   
-  .link-container {
-    margin-bottom: 20px;
-  }
+  /* Ensures the links and separator are inline */
+.link-container {
+    display: inline-block;
+}
 
-  .toggle-link {
-    text-decoration: none;
-    color: #007BFF;
-    cursor: pointer;
+/* Style the links and ensure no underline appears */
+.toggle-link {
+    display: inline; /* Ensure links are inline, not block-level */
+    text-decoration: none !important; /* Force remove underline, override any inherited styles */
+    color: #7a8288; /* Default color is gray */
+    padding-bottom: 2px; /* Padding to space out the text a bit */
+    border-bottom: 2px solid transparent; /* No visible underline/border by default */
+    transition: border-bottom 0.3s ease, color 0.3s ease; /* Smooth transition for border and color */
+}
+
+/* Equal space around the '|' separator */
+.link-container span {
+    margin-left: 10px;
     margin-right: 10px;
-  }
+}
 
-  .toggle-link:hover {
-    text-decoration: underline;
-  }
+/* Hover effect: simulate masthead with dark border on hover */
+.toggle-link:hover {
+    border-bottom: 2px solid #333; /* Dark gray border-bottom on hover */
+    color: #333; /* Darker gray on hover */
+    text-decoration: none !important; /* Make sure no underline appears on hover */
+}
 
-  .selected-link {
-    font-weight: bold;
-    text-decoration: underline;
-  }
+/* Selected link style */
+.selected-link {
+    border-bottom: 2px solid black; /* Black border for the selected link */
+    color: black; /* Black text for the selected link */
+    text-decoration: none !important; /* Ensure no underline for the selected link */
+}
+/* Remove the blue outline on click */
+.toggle-link:focus {
+    outline: none; /* Removes the blue focus outline */
+}
+
+/* Optional: Add a custom focus style (for accessibility) */
+.toggle-link:focus {
+    outline: none; /* Remove blue outline */
+    border-bottom: 2px solid #555; /* Optional: subtle focus border to indicate focus */
+}
 </style>
