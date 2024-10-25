@@ -5,21 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-<!-- Link container for switching between views -->
-<!-- <div class="link-container">
-  <a href="javascript:void(0)" id="chronologicalLink" class="toggle-link selected-link" onclick="showView('chronological', this)">Chronological Order</a>
-<span>|</span>
-  <a href="javascript:void(0)" id="areaLink" class="toggle-link" onclick="showView('area', this)">Separated by Area</a>
-</div> -->
-<div class="link-container">
-  <a href="javascript:void(0)" id="chronologicalLink" class="masthead__menu-item toggle-link selected-link" onclick="showView('chronological', this)">Chronological Order</a>
-  <span>|</span>
-  <a href="javascript:void(0)" id="areaLink" class="masthead__menu-item toggle-link" onclick="showView('area', this)">Separated by Area</a>
-</div>
-
+<br>
 <!-- Chronological Order Section -->
-<div id="chronological" class="view-section active">
-{{"
+<details>
+  <summary>Exhaustive, reverse chronological order</summary>
+    {{"
 
 ### *Preprints/In preparation.*
 
@@ -73,11 +63,11 @@ P. Radhakrishna, Peeyush Sahay*\
     NCC (National Conference on Communications) 2022 " | markdownify }}
   </li>
 </ol>
-</div>
-
+</details>
 <!-- Separated by Area Section -->
-<div id="area" class="view-section">
-{{"
+<details>
+  <summary>Separated by area</summary>
+    {{"
 
 ### *Machine learning (Transformers/LLMs, bandits; 2022--24).*
 
@@ -120,7 +110,7 @@ ICML 2024 Workshop on Mechanistic Interpretability (MI)
 </ol>
 {{"
 
-### *Conference proceedings/Workshop papers.*
+### *Signal processing (micro-Doppler parameter estimation; 2020--22).*
 " | markdownify }}
 
   <ol reversed>
@@ -136,82 +126,56 @@ P. Radhakrishna, Peeyush Sahay*\
     NCC (National Conference on Communications) 2022 " | markdownify }}
   </li>
 </ol>
-</div>
+</details>
 
-<script>
-  function showView(view, link) {
-    // Hide all sections
-    document.getElementById('chronological').classList.remove('active');
-    document.getElementById('area').classList.remove('active');
-    
-    // Show the selected section
-    document.getElementById(view).classList.add('active');
-
-    // Remove selected-link class from all links
-    document.getElementById('chronologicalLink').classList.remove('selected-link');
-    document.getElementById('areaLink').classList.remove('selected-link');
-    
-    // Add selected-link class to the clicked link
-    link.classList.add('selected-link');
-  }
-  // Dynamically set the starting number for the reversed list
-  window.onload = function() {
-    var publicationList = document.getElementById('publicationList');
-    var numItems = publicationList.getElementsByTagName('li').length;
-    publicationList.setAttribute('start', numItems);  // Set the 'start' attribute to the number of items
-  };
-</script>
-
+<!-- Custom styling for details and summary -->
 <style>
-  .view-section {
-    display: none;
-  }
-  .active {
-    display: block;
-  }
-  
-  /* Ensures the links and separator are inline */
-.link-container {
-    display: inline-block;
+/* Reset margin and padding for details */
+details {
+  margin: 0;
+  padding: 0;
+  border-bottom: 1px solid #ccc; /* Add border to details */
+  margin-bottom: 30px; /* Space between the details elements */
 }
 
-/* Style the links and ensure no underline appears */
-.toggle-link {
-    display: inline; /* Ensure links are inline, not block-level */
-    text-decoration: none !important; /* Force remove underline, override any inherited styles */
-    color: #7a8288; /* Default color is gray */
-    padding-bottom: 2px; /* Padding to space out the text a bit */
-    border-bottom: 2px solid transparent; /* No visible underline/border by default */
-    transition: border-bottom 0.3s ease, color 0.3s ease; /* Smooth transition for border and color */
+/* Style for summary to align text and arrow */
+details summary {
+  font-size: 1.1em;
+  cursor: pointer;
+  padding: 8px;
+  color: #333;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style: none;
+  outline: none;
+  margin: 0;
+  border-bottom: 1px solid #ccc; /* Always visible line under the title */
 }
 
-/* Equal space around the '|' separator */
-.link-container span {
-    margin-left: 10px;
-    margin-right: 10px;
+/* Custom arrow using CSS */
+details summary::marker {
+  display: none; /* Hide the default marker */
 }
 
-/* Hover effect: simulate masthead with dark border on hover */
-.toggle-link:hover {
-    border-bottom: 2px solid #333; /* Dark gray border-bottom on hover */
-    color: #333; /* Darker gray on hover */
-    text-decoration: none !important; /* Make sure no underline appears on hover */
+details summary::after {
+  content: "";
+  display: inline-block;
+  width: 12px;
+  height: 12px;
+  border-right: 2px solid #333;
+  border-bottom: 2px solid #333;
+  transform: rotate(45deg); /* Right-facing arrow */
+  transition: transform 0.2s ease-in-out;
 }
 
-/* Selected link style */
-.selected-link {
-    border-bottom: 2px solid black; /* Black border for the selected link */
-    color: black; /* Black text for the selected link */
-    text-decoration: none !important; /* Ensure no underline for the selected link */
-}
-/* Remove the blue outline on click */
-.toggle-link:focus {
-    outline: none; /* Removes the blue focus outline */
+details[open] summary::after {
+  transform: rotate(-135deg); /* Up-facing arrow when open */
 }
 
-/* Optional: Add a custom focus style (for accessibility) */
-.toggle-link:focus {
-    outline: none; /* Remove blue outline */
-    border-bottom: 2px solid #555; /* Optional: subtle focus border to indicate focus */
+/* Style the content inside details */
+details p {
+  padding: 10px 0;
+  margin: 0;
 }
 </style>
