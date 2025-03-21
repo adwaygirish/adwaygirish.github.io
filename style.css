@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=Montserrat:wght@400;700&family=Noto+Sans&display=swap');
+
+body {
+    font-family: 'Crimson Text', serif;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: #222;
+    display: flex;
+    justify-content: center;  /* Center the content horizontally */
+    align-items: center;  /* Align at the top vertically */
+    height: 100vh;
+    flex-direction: column;
+}
+
+/* Container to center the content */
+.container {
+    width: 100%;
+    max-width: 800px;  /* Match .measure width */
+    margin: 0 auto;
+    position: relative;  /* Add relative positioning to align the nav */
+}
+
+nav {
+    width: 100%;
+    background-color: transparent;  /* Remove background color */
+    padding: 0px 0;
+    text-align: center;
+    position: sticky;
+    float: right;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 100;
+    box-shadow: none;  /* Remove shadow */
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end;  /* Align items to the right */
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #222;  /* Match text color to body text */
+    text-decoration: none;
+    font-size: 1.3em;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #f4f4f4;  /* Light hover effect */
+    border-radius: 5px;
+}
+
+.measure {
+    max-width: 800px;
+    width: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    text-align: left;  /* Left-align text inside .measure */
+    margin-top: 00px;  /* Give space below the fixed navbar */
+}
+
+header {
+    width: 100%;
+    text-align: left;  /* Title stays left-aligned */
+    margin-bottom: 30px;
+}
+
+header h1 {
+    font-family: 'Crimson Text', serif;
+    font-size: 2.5em;
+    margin-bottom: 10px;
+}
+
+header p {
+    font-size: 1.3em;
+    color: #555;
+}
+
+h2 {
+    font-family: 'Crimson Text', serif;
+    font-size: 1.8em;
+    margin-top: 40px;
+    color: #222;
+}
+
+section p {
+    font-size: 1.1em;
+    color: #555;
+}
+
+a {
+    color: #0077cc;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+hr {
+    margin: 40px 0;
+    border: 0;
+    border-top: 2px solid #ddd;
+}
+
+footer {
+    margin-top: 50px;
+    text-align: center;
+    font-size: 0.9em;
+    color: #777;
+}
+
+footer a {
+    color: #0077cc;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+@media screen and (max-width: 768px) {
+    body {
+        justify-content: flex-start;
+        padding: 20px;
+    }
+    .measure {
+        padding: 15px;
+    }
+    header h1 {
+        font-size: 2em;
+    }
+    h2 {
+        font-size: 1.6em;
+    }
+}
+
+.contact-list {
+    list-style: none; /* Remove default bullets */
+    padding: 0;
+    margin: 0;
+}
+
+.contact-list li {
+    display: flex;
+    align-items: center;
+    gap: 10px; /* Space between icon and text */
+    margin-bottom: 10px; /* Increase spacing */
+}
+
+.contact-list .icon {
+    width: 20px; /* Adjust icon size */
+    height: 20px;
+    display: inline-block;
+}
