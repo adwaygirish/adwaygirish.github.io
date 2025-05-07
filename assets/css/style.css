@@ -21,16 +21,17 @@ body {
 }
 
 /* Navigation Bar */
+
 nav {
-    background-color: transparent;
+    background-color: #fff;
     padding: 0;
     text-align: right;  /* Align content inside nav to right */
     position: sticky;
-    top: 0;
     z-index: 100;
+/*    box-shadow: 0px 5px 5px rgba(0,0,0,0.1);*/
     box-shadow: none;
     margin-bottom: 2rem; /* Add some space below the navbar */
-    height: 4vh;
+    height: 6vh;
     font-size: 17px;
 }
 
@@ -40,6 +41,9 @@ nav ul {
     margin: 0;
     display: flex;
     justify-content: flex-end; /* Align list items to the right */
+    flex-wrap: wrap;           /* Let items wrap on smaller screens */
+    overflow-x: auto;          /* Or allow horizontal scroll */
+    -webkit-overflow-scrolling: touch;
 }
 
 nav ul li {
@@ -58,7 +62,6 @@ nav ul li a:hover {
     background-color: #f4f4f4;
     border-radius: 5px;
 }
-
 
 /* main text */
 .main-content {
@@ -93,7 +96,7 @@ footer {
 
 .footer-text p {
   color: #666;
-  font-size: 0.9em;
+  font-size: 15px;
   margin: 0;
 }
 
