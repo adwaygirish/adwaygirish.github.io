@@ -1,0 +1,149 @@
+/* Ensure the font is applied */
+body {
+    font-family: 'Crimson Text', serif;
+    font-size: 19px;  /* Adjust this value as needed */
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    color: #222;
+    /*display: flex;
+    justify-content: center;
+    height: 100vh;
+    flex-direction: column;*/
+}
+
+/* Centering content with a max-width for both navbar and main content */
+.container {
+    width: 100%;
+    max-width: 900px; /* You can adjust this width */
+    margin: 0 auto; /* Center content horizontally */
+    padding: 2rem 1rem; /* Optional padding to avoid content touching edges */
+}
+
+/* Navigation Bar */
+nav {
+    background-color: transparent;
+    padding: 0;
+    text-align: right;  /* Align content inside nav to right */
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    box-shadow: none;
+    margin-bottom: 2rem; /* Add some space below the navbar */
+    height: 4vh;
+    font-size: 17px;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    display: flex;
+    justify-content: flex-end; /* Align list items to the right */
+}
+
+nav ul li {
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #222;
+    text-decoration: none;
+    font-size: 1.3em;
+    padding: 5px 10px;
+    transition: background-color 0.3s ease;
+}
+
+nav ul li a:hover {
+    background-color: #f4f4f4;
+    border-radius: 5px;
+}
+
+
+/* main text */
+.main-content {
+    width: 100%;
+    max-width: 900px; /* You can adjust this width */
+    margin: 0 auto; /* Center content horizontally */
+    padding: 0 0; /* Optional padding to avoid content touching edges */
+    margin-top: calc(5vh + 16px); 
+}
+
+
+footer {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.footer-icons {
+  margin-bottom: 10px;
+}
+
+.footer-icon {
+  width: 30px;
+  height: 30px;
+  margin: 0 10px;
+  vertical-align: middle;
+  transition: transform 0.3s ease;
+}
+
+.footer-icon:hover {
+  transform: scale(1.2);
+}
+
+.footer-text p {
+  color: #666;
+  font-size: 0.9em;
+  margin: 0;
+}
+
+.pub-dropdown {
+  margin-bottom: 1em;
+  padding-bottom: 0.5em;
+}
+
+.pub-dropdown summary {
+  font-size: 1.1em;
+  font-weight: 400;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;  /* ensure alignment with first lines */
+  cursor: pointer;
+  position: relative;
+  padding-bottom: 0.25em;
+  border-bottom: 1px solid #ccc; /* underline stays in place */
+}
+
+.pub-dropdown summary::-webkit-details-marker {
+  display: none;
+}
+
+.pub-dropdown summary::after {
+  content: "⮟"; /* Down arrow */
+  font-size: 1em;
+  transition: transform 0.2s ease;
+}
+
+.pub-dropdown[open] summary::after {
+  transform: rotate(180deg);
+}
+
+.pub {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 1rem;
+  margin-top: 1rem;
+}
+
+.pub-label {
+  min-width: 1.2em;
+  margin-right: 0.5em;
+  white-space: nowrap;
+  align-self: flex-start;
+}
+
+.pub-content {
+  flex: 1;
+  display: inline-block;
+}

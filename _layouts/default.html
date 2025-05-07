@@ -1,0 +1,47 @@
+<!-- _layouts/default.html -->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;700&family=Montserrat:wght@400;700&family=Noto+Sans&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="container">
+    <nav>
+      <ul>
+        <li><a href="/">Home</a></li>
+        <li><a href="/publications">Publications</a></li>
+        <li><a href="/talks">Talks</a></li>
+        <li><a href="/profile">Profile</a></li>
+        <!-- add other links -->
+      </ul>
+    </nav>
+
+    
+    <div class = "main-content">
+      {{ content }}
+    </div>
+
+    <div style="margin-top: 3rem;"></div>
+    <hr>
+    <!-- Footer -->
+    <footer>
+      <div class="footer-icons">
+        <a href="mailto:adway.girish@epfl.ch"><img src="/assets/images/icons/email.svg" alt="Email" class="footer-icon" /></a>
+        <a href="mailto:adwaygirish@gmail.com"><img src="/assets/images/icons/gmail.svg" alt="Gmail" class="footer-icon" /></a>
+        <a href="https://scholar.google.com/citations?user=WOt1dxsAAAAJ"><img src="/assets/images/icons/googlescholar.svg" alt="Google Scholar" class="footer-icon" /></a>
+        <a href="https://people.epfl.ch/adway.girish/?lang=en"><img src="/assets/images/icons/EPFL.svg" alt="EPFL" class="footer-icon" /></a>
+        <a href="https://www.linkedin.com/in/adwaygirish"><img src="/assets/images/icons/linkedin.svg" alt="LinkedIn" class="footer-icon" /></a>
+        <a href="https://github.com/adwaygirish"><img src="/assets/images/icons/github.svg" alt="GitHub" class="footer-icon" /></a>
+      </div>
+      <div class="footer-text">
+        <p>2025, Adway Girish. Powered by <a href="https://jekyllrb.com/">Jekyll.</a></p>
+      </div>
+    </footer>
+
+  </div>
+</body>
+</html>
