@@ -14,10 +14,10 @@ permalink: /talks
 
 **Upcoming.**
 
-1. June 22--June 27, 2025: **On entropy-constrained Gaussian channel capacity via the moment problem**\
+1. June 26, 2025: **On entropy-constrained Gaussian channel capacity via the moment problem**\
 [Contributed talk] ISIT 2025, Ann Arbor 
 
-2. June 30--July 3, 2025: **A moment-matching problem with an entropy constraint**\
+2. July 2, 2025: **A moment-matching problem with an entropy constraint**\
 [Contributed talk] INFORMS Applied Probability Society Conference 2025, Atlanta 
 
 **Past.**
