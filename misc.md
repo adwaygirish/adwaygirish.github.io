@@ -10,7 +10,7 @@ permalink: /misc
 
 [(my) writings](/blogs)
 
-[(not my) books](/books)  
+[(not my) books](/misc/books)  
 
 [(not my) quotes](/misc/quotes)  
 

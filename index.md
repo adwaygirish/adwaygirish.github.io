@@ -34,8 +34,8 @@ Vikram Gadre, and
 Sibi Raj Pillai. 
 I spent the summer of 2021 at Texas Instruments (India) as a Signal Processing intern.
 
-Here are the [publications](publications.html) that have resulted from my research, 
-and here are [presentations](talks.html) I have given/will soon give. 
-[Here](profile.html) is a summary of my academic career.
+Here are the [publications](/publications) that have resulted from my research, 
+and here are [presentations](/talks) I have given/will soon give. 
+[Here](/profile) is a summary of my academic career, and [here](/misc) is everything else.
 
 
