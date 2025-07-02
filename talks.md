@@ -13,14 +13,14 @@ permalink: /talks
 ### Talks
 
 **Upcoming.**
-
-
-1. July 2, 2025: **A moment-matching problem with an entropy constraint**\
-[Contributed talk] INFORMS Applied Probability Society Conference 2025, Atlanta 
+--
 
 **Past.**
 
-1. June 26, 2025: **On entropy-constrained Gaussian channel capacity via the moment problem** [[slides](http://adwaygirish.github.io/files/talks/isit2025.pdf)]\
+1. July 2, 2025: **A moment-matching problem with an entropy constraint** [[slides](http://adwaygirish.github.io/files/talks/informsAPS2025_ent-const-mts.pdf)]\
+[Contributed talk] INFORMS Applied Probability Society Conference 2025, Atlanta 
+
+1. June 26, 2025: **On entropy-constrained Gaussian channel capacity via the moment problem** [[slides](http://adwaygirish.github.io/files/talks/isit2025_ent-const-cap.pdf)]\
     [Contributed talk] ISIT 2025, Ann Arbor 
 
 1.  September 9, 2024: **Compression and contraction** [[slides](http://adwaygirish.github.io/files/talks/ipg-phd-review_2024.pdf)]\
