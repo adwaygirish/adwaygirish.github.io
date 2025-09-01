@@ -12,8 +12,8 @@ permalink: /profile
 
 **Curriculum vitae.**
 
-[3-page CV](https://adwaygirish.github.io/files/docs/adway-CV_04-25.pdf) (Last updated 14.04.2025, 11:00 AM [CET](https://time.is/CET))\
-[1-page resume](https://adwaygirish.github.io/files/docs/adway-resumse_04-25.pdf) (Last updated 14.04.2025, 11:00 AM [CET](https://time.is/CET))
+[3-page CV](https://adwaygirish.github.io/files/docs/adway-CV_09-25.pdf) (Last updated 01.09.2025, 06:00 AM [CET](https://time.is/CET))\
+[1-page resume](https://adwaygirish.github.io/files/docs/adway-resume_09-25.pdf) (Last updated 01.09.2025, 06:00 AM [CET](https://time.is/CET))
 
 
 **Research statement.**

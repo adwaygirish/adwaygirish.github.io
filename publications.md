@@ -29,7 +29,7 @@ permalink: /publications
     <strong>On entropy-constrained Gaussian channel capacity via the moment problem</strong>
     [<a href="https://arxiv.org/abs/2501.13814">arXiv</a>]<br>
     <strong>A.G.</strong>, Shlomo Shamai (Shitz), Emre Telatar   <br> 
-    ISIT 2025 (to appear)  <br>
+    ISIT 2025  <br>
   </div>
 </div>
 
@@ -117,7 +117,7 @@ permalink: /publications
     <strong>On entropy-constrained Gaussian channel capacity via the moment problem</strong>
     [<a href="https://arxiv.org/abs/2501.13814">arXiv</a>]<br>
     <strong>A.G.</strong>, Shlomo Shamai (Shitz), Emre Telatar   <br> 
-    ISIT 2025 (to appear)  <br>
+    ISIT 2025  <br>
   </div>
 </div>
 
