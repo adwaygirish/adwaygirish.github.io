@@ -20,7 +20,7 @@ I am Adway, a fourth-year Ph.D. candidate with the [Information Processing Group
 [Emre Telatar](https://people.epfl.ch/emre.telatar/?lang=en). 
 I have also had the immense pleasure of collaborating with 
 [Michael Gastpar](https://people.epfl.ch/michael.gastpar/?lang=en), 
-[Hyeji Kim](https://sites.utexas.edu/hkim/), and [Shlomo Shamai](https://shamai.net.technion.ac.il/). 
+[Hyeji Kim](https://sites.utexas.edu/hkim/), [Ashok Makkuva](https://ashokvardhan.github.io/) and [Shlomo Shamai](https://shamai.net.technion.ac.il/). 
 
 I will spend five months starting October 2025 at [MIT](https://www.mit.edu/), thanks to my kind host [Gregory Wornell](https://web.mit.edu/gww/www/), and support from the generous EPFL Doc.Mobility grant.
 
