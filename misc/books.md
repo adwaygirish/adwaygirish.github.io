@@ -12,8 +12,10 @@ An exhaustive list of books I have read for leisure since 2021, with occasional 
 
 #### 2025.
 
+1. The Name of the Rose, Umberto Eco*
+1. A Wild Sheep Chase, Haruki Murakami
 1. The Sirens of Titan, Kurt Vonnegut*
-2. The Bell Jar, Sylvia Plath*
+1. The Bell Jar, Sylvia Plath*
 1. Pinball, 1973, Haruki Murakami
 1. **Player Piano**, Kurt Vonnegut: *visionary.*
 1. Notes from Underground, Fyodor Dostoevsky*
