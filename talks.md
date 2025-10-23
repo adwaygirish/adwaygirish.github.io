@@ -14,10 +14,12 @@ permalink: /talks
 
 **Upcoming.**
 
-1. October 23, 2025: [Title TBD]   
-SiA group meeting, MIT 
+---
 
 **Past.**
+
+1.  October 23, 2025: **Compression for the ''future''**  [[slides](http://adwaygirish.github.io/files/talks/sia-grp-mtg_1.pdf)]\   
+    SiA group meeting, MIT 
 
 1. July 2, 2025: **A moment-matching problem with an entropy constraint**
 [[slides](http://adwaygirish.github.io/files/talks/informsAPS2025_ent-const-mts.pdf)]   
