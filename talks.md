@@ -14,7 +14,9 @@ permalink: /talks
 
 **Upcoming.**
 
---
+1.  October 30, 2025: [title TBD]\
+    SiA group meeting, MIT 
+
 
 **Past.**
 
