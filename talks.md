@@ -14,11 +14,13 @@ permalink: /talks
 
 **Upcoming.**
 
-1.  October 30, 2025: [title TBD]\
-    SiA group meeting, MIT 
+--
 
 
 **Past.**
+
+1.  October 30, 2025: **Entropy-Constrained Gaussian Channel Capacity**  [[slides](http://adwaygirish.github.io/files/talks/sia-grp-mtg_2.pdf)]\
+    SiA group meeting, MIT 
 
 1.  October 23, 2025: **Compression for the "future"**  [[slides](http://adwaygirish.github.io/files/talks/sia-grp-mtg_1.pdf)]\
     SiA group meeting, MIT 
