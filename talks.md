@@ -14,7 +14,9 @@ permalink: /talks
 
 **Upcoming.**
 
---
+
+1.  February 5, 2026: [Title TBD]\
+    Simple Person's Applied Math Seminar (SPAMS), MIT 
 
 
 **Past.**
